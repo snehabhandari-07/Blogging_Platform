@@ -1,0 +1,15 @@
+[package]
+name = "blogging_platform"
+version = "1.0.0"
+authors = []
+
+[addresses]
+
+[dev-addresses]
+BloggingPlatform = '0x34f63cfcb04ba9908707ca349b8e7ade39426cce141362c8a0a31b108826eb8d'
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
