@@ -88,9 +88,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contributing
 We welcome contributions to the Decentralized Blogging Platform! Please read our contributing guidelines before submitting pull requests.
 
-## Security
-If you discover any security vulnerabilities, please contact us through our security email: [security@example.com]
-
 ## Support
 For support, questions, or suggestions, please:
 1. Open an issue in the GitHub repository
